@@ -12,6 +12,4 @@ main() {
   String z = "25";
   int a = int.parse(z);
   print(a);
-
-  print("Testing push");
 }
